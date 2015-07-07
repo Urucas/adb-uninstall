@@ -4,7 +4,13 @@
   "description": "Uninstalling Android packages from cli",
   "main": "bin/index",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "make clean && make node",
+    "prestart": "make clean && make node",
+    "start": "./bin/index"
+  },
+  "bin": {
+    "adb-uninstall": "./bin/index"
   },
   "repository": {
     "type": "git",
