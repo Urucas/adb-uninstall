@@ -20,3 +20,6 @@ $ ? Choose a package to uninstall:
 (Move up and down to reveal more choices)
 
 ```
+
+#Requirements
+* ADB
