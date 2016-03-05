@@ -1,0 +1,5 @@
+language: node_js
+node_js: 
+  - stable
+before_script: 
+  - export PATH=$PATH:./node_modules/adb-mock/bin/
