@@ -1,4 +1,4 @@
-# adb-uninstall
+# adb-uninstall [![Build Status](https://travis-ci.org/Urucas/adb-uninstall.svg?branch=master)](https://travis-ci.org/Urucas/adb-uninstall)
 Uninstalling Android packages from cli
 
 #Install
