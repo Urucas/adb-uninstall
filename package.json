@@ -1,6 +1,6 @@
 {
   "name": "adb-uninstall",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Uninstalling Android packages from cli",
   "main": "./bin/index",
   "scripts": {
