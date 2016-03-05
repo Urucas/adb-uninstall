@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-var uninstall = require('../node').default;
+var uninstall = require('../dist/').default;
 uninstall();
